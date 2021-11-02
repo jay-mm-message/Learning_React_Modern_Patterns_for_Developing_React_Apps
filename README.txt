@@ -3,3 +3,6 @@ Alex Banks, Eve Porcello 著 李旭峰 譯
 
 2. source_code:
 https://github.com/moonhighway/learning-react
+
+3. React 部落格
+https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html
