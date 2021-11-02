@@ -6,3 +6,6 @@ https://github.com/moonhighway/learning-react
 
 3. React 部落格
 https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html
+多國語系
+https://reactjs.org/languages/
+
